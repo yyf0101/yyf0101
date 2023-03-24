@@ -9,7 +9,7 @@
     <br />
   </samp>
 
-  <a><div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=yyf0101&theme=xcode" /> </div></a>
+  <a><img src="https://activity-graph.herokuapp.com/graph?username=yyf0101&theme=xcode" /> </a>
   
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=yyf0101&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="zhazhaye's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyf0101&layout=compact&theme=buefy&hide_border=true" /> </a> | 
 | ------------- | ------------- |
